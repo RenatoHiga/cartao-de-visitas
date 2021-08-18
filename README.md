@@ -5,7 +5,7 @@
 - Quando finalizar seu cartão de visita, você poderá compartilhar o cartão apertando no cartão que deseja
 
 ## Imagens do aplicativo
-![Tela Inicial](https://user-images.githubusercontent.com/47742326/129968323-11a8374d-611f-4cca-8c0d-822ded19f1e6.png)
-![Formulário](https://user-images.githubusercontent.com/47742326/129968347-1ca7da7a-9527-484b-8cb1-14256e5f6129.png)
-![Compartilhamento](https://user-images.githubusercontent.com/47742326/129968400-65456271-0c10-41e9-a71f-cc5273b66d6d.png)
+![Tela Inicial](https://user-images.githubusercontent.com/47742326/129968875-3c0ad7b7-5de1-42db-a04f-eb5bf1d70eab.png)
+![Formulário para criação do cartão](https://user-images.githubusercontent.com/47742326/129969029-c13e3e16-db59-4a5e-9bef-f76457baabea.png)
+![Compartilhamento do cartão](https://user-images.githubusercontent.com/47742326/129969042-93333d6c-1c94-45c4-8b48-75d641e05049.png)
 
